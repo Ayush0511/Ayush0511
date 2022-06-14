@@ -5,10 +5,10 @@
 ![](https://komarev.com/ghpvc/?username=your-github-sasmit-shubham)
 <br />
 
-[Resume](https://drive.google.com/file/d/1mfGt7nd2RIhY_Dqj-JIqOkSeb_126Smn/view?usp=sharing)  
--Looking for an SDE internship. I possess a very good understanding of Full stack development fundamentals with proficiency in Data structures and algorithms. I have excellent problem-solving skills with the agility to learn any tech stack with very little guidance.
+[Resume](https://drive.google.com/file/d/1ElopkW55277sujEv4EIFpLifmsCSWIpH/view?usp=sharing)  
+- I am a talented, ambitious and hardworking individual, with broad skills and experience in Data Analytics, Design and manufacturing and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis competently and at working well under pressure. A key strength is a communication; building strong relationships with people in order to deliver the best results. Recently, I completed a data analytic course through Google and currently working on a project
 - 🏫 I am currently 4rd year undergraduate at IIIT CHENNAI
-- 🔭 I’m currently working on CoderSabha | Drop in Audio Chat Application 
+- 🔭 I’m currently working as a PDE intern in Chimertech pvt. ltd. | Drop in Audio Chat Application 
 - 🌱 I’m currently learning Full Stack developement
 - 👯 I’m looking to collaborate on MERN project.
 - 🤔 I’m looking for SDE intern
