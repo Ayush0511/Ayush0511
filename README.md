@@ -1,6 +1,6 @@
 <h1>Hey there, I am Ayush Awadhiya 👋</h1>
 
-<img align="right" alt="https://github.com/sasmit-shubham/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmit-shubham&langs_count=8&show_icons=true&theme=radical" width="380" height="300" />
+<img align="right" alt="https://github.com/Ayush0511/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasmit-shubham&langs_count=8&show_icons=true&theme=radical" width="380" height="300" />
 
 ![](https://komarev.com/ghpvc/?username=your-github-sasmit-shubham)
 <br />
