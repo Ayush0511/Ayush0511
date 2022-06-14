@@ -8,16 +8,16 @@
 [Resume](https://drive.google.com/file/d/1ElopkW55277sujEv4EIFpLifmsCSWIpH/view?usp=sharing)  
 - I am a talented, ambitious and hardworking individual, with broad skills and experience in Data Analytics, Design and manufacturing and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis competently and at working well under pressure. A key strength is a communication; building strong relationships with people in order to deliver the best results. Recently, I completed a data analytic course through Google and currently working on a project
 - 🏫 I am currently 4rd year undergraduate at IIIT CHENNAI
-- 🔭 I’m currently working as a PDE intern in Chimertech pvt. ltd. | Drop in Audio Chat Application 
-- 🌱 I’m currently learning Full Stack developement
-- 👯 I’m looking to collaborate on MERN project.
-- 🤔 I’m looking for SDE intern
+- 🔭 I’m currently working as a PDE intern in Chimertech pvt. ltd. | Drop in App development 
+- 🌱 I’m currently learning App development
+- 👯 I’m looking to collaborate on my data analytic project
+- 🤔 I’m looking for Data analytic intern.
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
 - 📫 How to reach me: 
- [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](https://www.linkedin.com/in/shubham-kumar-824751193/) 
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ](https://twitter.com/ShubhamSasmit)
-[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/sasmit_shubham12/)
+ [<img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" width="30px" alt="facebook"/> ](www.linkedin.com/in/ayush0511)
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" width="30px" alt="twitter"/> ].
+[<img align="center" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" width="30px" alt="instagram"/> ](https://www.instagram.com/aayu_0511/)
 
 <hr />
 
