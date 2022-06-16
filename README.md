@@ -2,7 +2,7 @@
 
 <img align="right" alt="https://github.com/Ayush0511/" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush0511&langs_count=8&show_icons=true&theme=radical" width="380" height="300" />
 
-![](https://komarev.com/ghpvc/?username=your-github-sasmit-shubham)
+![](https://komarev.com/ghpvc/?username=your-github-Ayush0511)
 <br />
 
 [Resume](https://drive.google.com/file/d/1ElopkW55277sujEv4EIFpLifmsCSWIpH/view?usp=sharing)  
@@ -41,9 +41,9 @@
 <hr/>
 <div align="center">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sasmit-shubham&theme=radical&fire=DD2727" alt="sasmit-shubham" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush0511&theme=radical&fire=DD2727" alt="Ayush0511" />
 <br/>
- <img  alt="Aman's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=sasmit-shubham&show_icons=true&theme=radical&fire=DD2727" />
+ <img  alt="Ayush's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Ayush0511&show_icons=true&theme=radical&fire=DD2727" />
 
 </div>
 <div align="center">
@@ -51,12 +51,12 @@
  
 ### Productivity Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sasmit-shubham&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush0511&theme=monokai)
 
 </div>
  <hr/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sasmit-shubham&theme=redical&count_private=true)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Ayush0511&theme=redical&count_private=true)  
 
 <details>
 <summary>Detailed Summary</summary>
