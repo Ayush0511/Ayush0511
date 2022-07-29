@@ -6,7 +6,7 @@
 <br />
 
 [Resume](https://drive.google.com/file/d/1ElopkW55277sujEv4EIFpLifmsCSWIpH/view?usp=sharing)  
-- I am a talented, ambitious and hardworking individual, with broad skills and experience in Data Analytics, Design and manufacturing and leading projects. Furthermore, I am adept at handling multiple tasks on a daily basis competently and at working well under pressure. A key strength is a communication; building strong relationships with people in order to deliver the best results. Recently, I completed a data analytic course through Google and currently working on a project
+- An entry-level data scientist who loves to build models that can help translate data points into actionable business insights, with a highly analytical individual with strong communication and programming skills.
 - 🏫 I am currently 4rd year undergraduate at IIIT CHENNAI
 - 🔭 I’m currently working as a PDE intern in Chimertech pvt. ltd. | Drop in App development 
 - 🌱 I’m currently learning App development
