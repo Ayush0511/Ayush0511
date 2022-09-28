@@ -10,8 +10,8 @@
 - 🏫 I am currently 4rd year undergraduate at IIIT CHENNAI
 - 🔭 I’m currently working as a PDE intern in Chimertech pvt. ltd. | Drop in App development 
 - 🌱 I’m currently learning App development
-- 👯 I’m looking to collaborate on my data analytic project
-- 🤔 I’m looking for Data analytic intern.
+- 👯 I’m looking to collaborate on my data science project
+- 🤔 I’m looking for Data science intern.
 - 💬 Ask me about ...
 - 😄 Pronouns: He/His
 - 📫 How to reach me: 
